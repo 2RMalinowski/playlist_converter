@@ -1,2 +1,1 @@
-# playlist_converter
-Tool for transfer playlist
+Simple tool for transfer playlist or favorite tracks from Google Play Music to csv file and to Spotify using playlist-converter.net
